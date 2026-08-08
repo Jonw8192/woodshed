@@ -1,6 +1,6 @@
 'use client';
 import {useEffect,useState} from 'react';
-import {post,get} from '@/lib/api';
+import {post,get} from '../lib/api';
 
 export default function LeagueConnect(){
   const[id,setId]=useState('');const[data,setData]=useState(null);const[err,setErr]=useState('');const[busy,setBusy]=useState(false);
