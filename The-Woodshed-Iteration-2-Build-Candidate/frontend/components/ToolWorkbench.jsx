@@ -1,6 +1,6 @@
 'use client';
 import {useEffect,useState} from 'react';
-import {get,post} from '@/lib/api';
+import {get,post} from '../lib/api';
 
 function Status({title,state,detail}){return <section className="panel tool"><div className="eyebrow">{state}</div><h2>{title}</h2><p className="muted">{detail}</p></section>}
 function Dna({leagueId}){const[data,setData]=useState(null),[err,setErr]=useState('');useEffect(()=>{if(!leagueId)return;post('/league/dna',{league_id:leagueId}).then(setData).catch(e=>setErr(e.message))},[leagueId]);if(!leagueId)return <Status title="League DNA" state="LEAGUE REQUIRED" detail="Connect a Sleeper league first."/>;if(err)return <Status title="League DNA" state="UNAVAILABLE" detail={err}/>;if(!data)return <Status title="League DNA" state="LOADING" detail="Reading completed draft history…"/>;return <section className="panel tool"><div className="eyebrow">LEAGUE DNA</div><h2>{data.sample_size} historical picks</h2>{data.fingerprints?.slice(0,6).map(x=><article className="resultRow" key={x.manager_id+x.draft_purpose}><b>{x.manager_name}</b><span>{x.archetype}</span><small>{x.draft_purpose} · evidence {x.evidence_strength} · exploitability {x.exploitability}</small></article>)}</section>}
