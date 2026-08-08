@@ -1,0 +1,1 @@
+export default function Logo({small=false}){return <div className={small?'logo small':'logo'} aria-label="The Woodshed"><svg viewBox="0 0 100 78" role="img"><path d="M5 8h20l18 42L50 36l7 14L75 8h20L67 70H54L50 61l-4 9H33z" fill="currentColor"/><path d="M50 44l5 16H45z" fill="#00c853"/></svg></div>}

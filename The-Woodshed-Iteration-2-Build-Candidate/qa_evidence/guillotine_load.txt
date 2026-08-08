@@ -1,0 +1,5 @@
+requests=20 teams=32 simulations=20000 concurrency_bound=2
+total_seconds=0.2557 throughput_rps=78.22
+latency_p50_ms=143.60 latency_p95_ms=249.56 latency_p99_ms=249.56
+event_loop_lag_p95_ms=0.827
+peak_rss_mb=130.42 errors=0

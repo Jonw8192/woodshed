@@ -1,0 +1,1 @@
+PASS: required documented files and configuration keys exist
