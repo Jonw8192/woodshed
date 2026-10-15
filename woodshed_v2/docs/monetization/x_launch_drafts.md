@@ -28,11 +28,11 @@ The free weekly note will show the research, the pushback, and what I’m watchi
 
 Join here: [APPROVED SIGNUP LINK]
 
-## Draft 4 — paid beta interest check
+## Draft 4 — audience conversation
 
-I’m considering a Woodshed Pro weekly deep dive: one original usage thesis, the evidence, the case against it, and what would change my view.
+When you decide whether a player’s role is actually changing, what do you trust first: routes, targets, snaps, or touch share?
 
-No projections package or extra noise. Would that be useful to you? [OPTIONAL SURVEY LINK]
+I’m tracking the week-to-week movement and the counterevidence. Which signal do you check first?
 
 ## Posting checklist
 
