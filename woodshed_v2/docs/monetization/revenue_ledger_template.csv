@@ -1,0 +1,1 @@
+record_id,record_type,period_start,period_end,transaction_or_scenario_date,product,channel,currency,units,gross_amount,refund_amount,platform_fee,processing_fee,other_approved_cost,net_amount,payout_status,evidence_reference,notes
