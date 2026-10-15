@@ -1,0 +1,75 @@
+{
+  "product": "FFToday Touch Transfer",
+  "season": 2026,
+  "week": 6,
+  "generated_at": "2026-10-15T21:04:29.653763+00:00",
+  "remaining_faab": 200,
+  "publication_status": "NOT APPROVED FOR PUBLICATION",
+  "candidates": [
+    {
+      "player_id": "SYNTH-RB-1",
+      "name": "Fictional Example RB",
+      "team": "ZZ",
+      "position": "RB",
+      "season": 2026,
+      "week": 6,
+      "metrics": {
+        "carries": 13.0,
+        "goal_line_touches": null,
+        "qb_rushes": null,
+        "redzone_touches": null,
+        "route_share": null,
+        "routes": null,
+        "rush_share": 0.55,
+        "snap_share": 0.63,
+        "target_share": null,
+        "targets": null,
+        "third_down_share": null,
+        "tprr": null,
+        "two_minute_share": null,
+        "wopr": null
+      },
+      "delta": {
+        "rush_share": 0.35,
+        "target_share": null,
+        "snap_share": 0.39,
+        "two_minute_share": null,
+        "third_down_share": null,
+        "goal_line_touches": null,
+        "tprr": null,
+        "route_share": null,
+        "qb_rushes": null,
+        "wopr": null,
+        "carries": 9.0,
+        "routes": null,
+        "targets": null,
+        "redzone_touches": null
+      },
+      "role_signal": "expanding role",
+      "confidence": "medium",
+      "signals": [
+        {
+          "metric": "rush_share",
+          "delta": 0.35
+        },
+        {
+          "metric": "snap_share",
+          "delta": 0.39
+        },
+        {
+          "metric": "carries",
+          "delta": 9.0
+        }
+      ],
+      "ownership_pct": 24.0,
+      "eligibility": "eligible",
+      "flags": [],
+      "source": "SYNTHETIC fixture",
+      "source_url": "fixture://synthetic",
+      "source_date": "2026-10-10",
+      "retrieved_at": "2026-10-15",
+      "editorial_status": "pending",
+      "faab_suggestion": null
+    }
+  ]
+}

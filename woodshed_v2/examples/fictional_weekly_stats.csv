@@ -1,0 +1,3 @@
+player_id,name,team,position,season,week,snap_share,rush_share,carries,rostered_pct,roster_source,source,source_url,source_date,retrieved_at
+SYNTH-RB-1,Fictional Example RB,ZZ,RB,2026,5,0.24,0.2,4,24,SYNTHETIC test data,SYNTHETIC fixture,fixture://synthetic,2026-10-10,2026-10-15
+SYNTH-RB-1,Fictional Example RB,ZZ,RB,2026,6,0.63,0.55,13,24,SYNTHETIC test data,SYNTHETIC fixture,fixture://synthetic,2026-10-10,2026-10-15

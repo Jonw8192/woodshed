@@ -1,0 +1,4 @@
+streamlit>=1.39,<2
+nflreadpy>=0.1
+polars>=1.0
+pytest>=8,<10
