@@ -1,18 +1,12 @@
-# THE WOODSHED: media monetization pilot
+## Current priority: X audience growth first
 
-**Prepared:** 2026-10-15  
-**Status:** Recommendation for Jon’s review. Nothing here is launched, approved, or evidence of audience or revenue.
+**Update, 2026-10-15:** Jon’s direction is to grow a larger, engaged X audience before pursuing monetization. This priority supersedes the earlier paid-validation sequence in this document.
 
-## Recommendation
+For now, build a consistent X audience and use a free newsletter signup only as an opt-in audience-capture path when its landing page is ready. Do not enable paid subscriptions, pitch Woodshed Pro, or make a sponsor package the near-term focus. First establish a dated X analytics baseline, run a four-week organic content and conversation sprint, and review real engagement and net-follower change. Do not assume a follower threshold or claim a growth result without evidence.
 
-Validate one product with four free issues before paying for a platform or promising several premium products.
+The $5 monthly / $49 annual Woodshed Pro price, platform comparison, and service/sponsorship options below are retained as future research only. They are not an approved launch or current operating priority. Revisit monetization after Jon reviews actual audience growth and repeat reader interest.
 
-- **The Edge Report (free):** one weekly, permission-based email with a concise “what changed in opportunity” lead, evidence and source links, one counterpoint, and one question to monitor. Use original Woodshed analysis.
-- **Woodshed Pro (proposed paid tier):** one original weekly deep dive with an evidence table, opposing case, and specific news or usage change that would alter the view. Pick a distinct angle outside FFToday’s commissioned assignment. Do not promise projections, tools, chat, or extra shows in the first pilot.
-- **Test price:** $5 monthly or $49 annual. These are proposed test prices, not published prices or a forecast. Keep one tier. Review conversion, refunds, engagement, and production hours after four free issues and a clearly labeled paid-interest survey or waitlist. Enable billing only after Jon approves platform, offer, price, terms, and launch copy.
-- **Woodshed Pro as a separate research service:** defer a higher-touch offer until repeat buyer interest exists. First test one paid, fixed-scope research assignment for an outlet, with scope, fee, deadline, rights, and revisions in writing before work begins.
-
-These prices sit below larger research bundles, which include more tools and products. FantasyPros currently lists all-sport tools starting at $3.99/month billed annually; Establish The Run lists NFL in-season at $279.99/year and Draft Kit Pro at $54.99/year. They are reference points, not like-for-like products. Woodshed should sell a narrow original usage lens rather than attempt to match their projections, tools, or community. Recheck before any launch.
+Use the X-first workflow in [x_growth_sprint.md](x_growth_sprint.md), the drafts in [x_launch_drafts.md](x_launch_drafts.md), and the [weekly review template](weekly_growth_review.md). Keep paid income and projections separated in the ledger, but do not optimize for revenue during this audience-building phase.
 
 ## What demand is—and is not—verified
 
