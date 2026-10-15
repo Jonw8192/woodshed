@@ -1,3 +1,0 @@
-const BASE=process.env.NEXT_PUBLIC_API_URL||'http://localhost:8000/api/v1';
-export async function post(path,body){const r=await fetch(BASE+path,{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify(body)});const data=await r.json().catch(()=>({}));if(!r.ok)throw new Error(data?.detail||data?.error?.message||`Request failed (${r.status})`);return data}
-export async function get(path){const r=await fetch(BASE+path,{cache:'no-store'});const data=await r.json().catch(()=>({}));if(!r.ok)throw new Error(data?.detail||data?.error?.message||`Request failed (${r.status})`);return data}

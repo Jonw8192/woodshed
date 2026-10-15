@@ -1,1 +1,0 @@
-DROP TABLE IF EXISTS feature_flags;DROP TABLE IF EXISTS recommendations;DROP TABLE IF EXISTS market_value_snapshots;DROP TABLE IF EXISTS projection_snapshots;DROP TABLE IF EXISTS draft_picks;DROP TABLE IF EXISTS drafts;DROP TABLE IF EXISTS players;DROP TABLE IF EXISTS league_snapshots;

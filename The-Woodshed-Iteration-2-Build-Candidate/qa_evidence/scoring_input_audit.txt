@@ -1,3 +1,0 @@
-ScoringSettings fields: pass_yd, pass_td, pass_int, rush_yd, rush_td, rec, rec_yd, rec_td, te_rec_bonus, two_pt, fumble, pass_first_down, rush_first_down, rec_first_down, bonus_pass_300, bonus_rush_100, bonus_rec_100, superflex
-PASS: every accepted scoring field is referenced by scoring/decision code
-PASS: accepted Trade format/context fields are referenced by trade engine
