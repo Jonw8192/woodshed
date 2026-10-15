@@ -5,7 +5,22 @@
 **Review status:** Draft / reviewed / approved  
 **Source dashboard/export date:**  
 
-## Audience actuals
+## X engagement actuals — priority
+
+| Period/post | Impressions | Profile visits | Follows | Replies | Reposts | Bookmarks | Link clicks | Source/date |
+|---|---:|---:|---:|---:|---:|---:|---:|---|
+
+Use the platform’s available definitions and note missing metrics as not verified. Identify posts by URL or timestamp. Separate substantive replies from raw volume where practical.
+
+- Net follower change:
+- Follows per profile visit, if available:
+- Two strongest posts and why they may have worked:
+- Two posts to learn from:
+- Recurring audience questions/disagreements:
+- Next week’s one content experiment:
+
+
+## Audience capture actuals — secondary
 
 | Metric | Start | End | Change | Evidence/source |
 |---|---:|---:|---:|---|
